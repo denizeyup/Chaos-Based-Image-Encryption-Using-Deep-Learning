@@ -39,7 +39,7 @@ To set up the environment for this project, you need to install the required lib
 
 To train the GAN model:
 1. Clone the repository to your local machine.
-2. Place your grayscale image dataset in the designated `data/` directory.
+2. Place your grayscale image dataset in the designated `dataset/` directory.
 3. Run the training script provided in the repository. The script will process the images, add noise, and train the GAN model on this dataset.
 
 ### Testing the Model
@@ -69,4 +69,4 @@ This project is licensed under the MIT License, allowing for open use and modifi
 ## Acknowledgements
 
 - **Eyüp Deniz**: Project developer and thesis author.
-- **Assoc. Prof. Dr. Hüseyin Polat**: Project supervisor and advisor.
+- **Prof. Dr. Hüseyin Polat**: Project supervisor and advisor.
