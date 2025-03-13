@@ -60,7 +60,7 @@ The project demonstrates effective image encryption and decryption. The use of c
 
 ## References
 
-This project is based on the thesis titled *"Chaotic Based Image Encryption Using Deep Learning"* by Eyüp Deniz, under the supervision of Assoc. Prof. Dr. Hüseyin Polat at Gazi University.
+This project is based on the thesis titled *"Chaotic Based Image Encryption Using Deep Learning"* by Eyüp Deniz, under the supervision of Prof. Dr. Hüseyin Polat at Gazi University.
 
 ## License
 
